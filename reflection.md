@@ -18,4 +18,13 @@ until I already had a stronger grasp on the subject.
 
 ### Accessibility
 
-Enter your reflections on this section here.
+Note: As with above, this was completed week 7
+
+I did some of this exercise on my own, but found I had missed a lot when referencing the video.
+
+This exercise was quite helpful overall and showed me some extra things to look out for,
+even after completing some of the homeworks.
+
+I think it would have been nice if there were more of these exercises, it seems like
+a lot of this comes from knowing what tags exist, and I'm still likely to miss out
+on better options that I don't know about or forget about ones I do.
