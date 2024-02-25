@@ -16,22 +16,24 @@
       <br /><br />
       <label>
         Email
-        <input type="text" />
+        <input type="email" />
       </label>
       <br /><br />
-      <span>Favorite Character</span>
-      <br />
-      <label>
-        <input type="radio" id="spongebob" />
-        Spongebob
-      </label>
-      <br />
-      <label><input type="radio" id="patrick" />Patrick</label>
-      <br />
-      <label><input type="radio" id="sandy" />Sandy</label>
-      <br />
-      <br />
-      <button>Submit</button>
+      <fieldset>
+        <legend>Favorite Character</legend>
+        <br />
+        <label>
+          <input type="radio" name="character" id="spongebob" />
+          Spongebob
+        </label>
+        <br />
+        <label><input type="radio" name="character" id="patrick" />Patrick</label>
+        <br />
+        <label><input type="radio" name="character" id="sandy" />Sandy</label>
+        <br />
+        <br />
+      </fieldset>
+      <input type="submit" value="Submit" />
     </form>
   </body>
 </html>
