@@ -2,3 +2,8 @@
   width: 600px;
   margin: 40px auto;
 }
+
+/* filler */
+.container p::first-letter {
+  font-size: xx-large;
+}
