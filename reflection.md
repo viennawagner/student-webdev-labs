@@ -28,3 +28,19 @@ even after completing some of the homeworks.
 I think it would have been nice if there were more of these exercises, it seems like
 a lot of this comes from knowing what tags exist, and I'm still likely to miss out
 on better options that I don't know about or forget about ones I do.
+
+
+### CSS
+
+Note: as with above, this was completed on week 8
+
+I did bits of these exercises on my own, but often while following along with the video.
+I was able to work ahead of the video sometimes, however.
+
+These were pretty helpful all around for nailing down my CSS. The media queries one especially
+was very good practice on a lot of things.
+
+I think everything was explained fairly well and the exercises were largely enough.
+It always helps to have more practice, but there comes a point where that's no longer
+lab exercises, so this was fine.
+
