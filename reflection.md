@@ -44,3 +44,17 @@ I think everything was explained fairly well and the exercises were largely enou
 It always helps to have more practice, but there comes a point where that's no longer
 lab exercises, so this was fine.
 
+### Flex
+
+Note: Again, completed week 8
+
+I did this basically on my own, but checked my answers with the video largely because I was 
+unclear on what actually constituted as completing the exercise.
+
+This was reasonably helpful for understanding flex, though at this point I think I have
+a decent grasp on it already. It would have been very helpful if I had done it on time, 
+however.
+
+I was a little unclear on what the assignment was actually asking of me, but the content has
+all been explained nicely in class. These exercises I think were pretty sufficient for the
+content as well.
