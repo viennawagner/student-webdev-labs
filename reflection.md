@@ -58,3 +58,17 @@ however.
 I was a little unclear on what the assignment was actually asking of me, but the content has
 all been explained nicely in class. These exercises I think were pretty sufficient for the
 content as well.
+
+### Grid
+Note: completed week 8
+
+I did the first of these exercises basically completely on my own. Second set I used the video
+to get started, but finished on my own.
+
+These were pretty helpful since I haven't had a lot of practice with grid, especially not grid 
+areas.
+
+I wasn't super prepared for the grid areas exercises based off the lectures, but the exercises
+alone were very helpful for that. The exercises seem sufficient based on what I know about grid
+right now, but I wouldn't be surprised to hear there are more advanced features that I would be
+happy to learn about.
