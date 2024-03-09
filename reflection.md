@@ -72,3 +72,16 @@ I wasn't super prepared for the grid areas exercises based off the lectures, but
 alone were very helpful for that. The exercises seem sufficient based on what I know about grid
 right now, but I wouldn't be surprised to hear there are more advanced features that I would be
 happy to learn about.
+
+### Bootstrap
+Note: completed week 9
+
+I had to follow along with the videos to get started for most of these exercises.
+
+These were very helpful in spite of my doing them late. They definitely would have made my
+homework go better. All of them were pretty much equally helpful.
+
+The lectures didn't totally prepare me for these, though that may have to do with my learning 
+style; still, the exercises helped a lot on their own. It seems like there's a lot to 
+bootstrap, so more that could be covered in exercises, but I'm not so sure that it's feasible
+to do that anyway so this was fine.
