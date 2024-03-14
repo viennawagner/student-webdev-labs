@@ -4,9 +4,9 @@ const formatItems = (input) => {
   // for reference, see the MDN Number page:
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
 
-  var res = ''
+  var res = "";
   for (let i = 0; i < input.length - 1; i++) {
-    res += Number.parseFloat(input[i]).toFixed(3) + ', ';
+    res += Number.parseFloat(input[i]).toFixed(3) + ", ";
   }
   res += Number.parseFloat(input[input.length - 1]).toFixed(3);
 

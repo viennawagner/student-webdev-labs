@@ -5,10 +5,10 @@ $(document).ready(() => {
     $("#books").append(
       $("<div>")
         .css({
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          marginTop: '20px', 
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          marginTop: "20px",
         })
         .append($("<h3>").text(item.name))
         .append($("<p>").text(item.authors[0]))
@@ -29,12 +29,14 @@ $(document).ready(() => {
 
       error: (error) => {
         console.error(error);
-        $('#books').append($('<div>').text('An error has occurred, please try again.'));
+        $("#books").append(
+          $("<div>").text("An error has occurred, please try again.")
+        );
       },
 
       complete: () => {
-        $('#loading').remove();
-      }
+        $("#loading").remove();
+      },
     });
   };
   fetchData(url);
