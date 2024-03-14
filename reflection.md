@@ -85,3 +85,13 @@ The lectures didn't totally prepare me for these, though that may have to do wit
 style; still, the exercises helped a lot on their own. It seems like there's a lot to 
 bootstrap, so more that could be covered in exercises, but I'm not so sure that it's feasible
 to do that anyway so this was fine.
+
+### Javascript
+Note: completed week 10
+
+I followed along with the videos for some of these, but worked through them on my own for others. This being more akin to traditional programming made me more confident in my ability to complete things on my own.
+
+These were pretty helpful, they gave me a lot of practice with Javascript and a little refresher on functional programming, which is something I would like to be better at. Most helpful was the functional stuff and anything that involved interacting with the DOM, since those are the things I have the least experience with.
+
+I think the lectures worked well enough for these. The exercises were great and there was already a lot of them, so I wouldn't ask for more, even if more practice is always helpful.
+
