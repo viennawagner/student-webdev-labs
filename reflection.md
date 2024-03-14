@@ -95,3 +95,11 @@ These were pretty helpful, they gave me a lot of practice with Javascript and a 
 
 I think the lectures worked well enough for these. The exercises were great and there was already a lot of them, so I wouldn't ask for more, even if more practice is always helpful.
 
+### jQuery
+Note: completed week 10
+
+I followed along the videos for basically the whole thing.
+
+These were very helpful, as I have basically no prior experience with jQuery. I can't really say either one was more helpful than the other though.
+
+Lectures were helpful for this, but I really needed to get hands on for this particular concept. I think more exercises would have been helpful; I particularly need more practice juggling my parentheses. Still, I appreciate not loading on too much work at the very end of the quarter.
